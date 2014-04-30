@@ -19,9 +19,9 @@
 	</organization>
 
 	<scm>
-		<connection>scm:svn:http://java-gearman-service.googlecode.com/svn/trunk</connection>
-		<developerConnection>scm:svn:https://java-gearman-service.googlecode.com/svn/trunk</developerConnection>
-		<url>http://java-gearman-service.googlecode.com/svn/trunk</url>
+		<connection>scm:git:https://github.com/rubenqba/java-gearman-service.git</connection>
+		<developerConnection>scm:git:https://github.com/rubenqba/java-gearman-service.git</developerConnection>
+		<url>https://github.com/rubenqba/java-gearman-service</url>
 	</scm>
 
 	<modelVersion>4.0.0</modelVersion>
